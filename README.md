@@ -18,7 +18,7 @@ Platform connecting construction firms with investors for transparent funding.
 * **Backend**: Node.js, Express.js, FastAPI, Django
 * **Database**: PostgreSQL, MongoDB, Prisma
 * **AI/ML**: Python, Pandas, Scikit-learn
-* **Tools**: Git, JWT, Expo, TanStack Query
+* **Tools**: Git, Docker, Expo, TanStack
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdulsalam-akinsanya-07bb9a247/)
