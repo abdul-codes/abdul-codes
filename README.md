@@ -17,7 +17,7 @@ Platform connecting construction firms with investors for transparent funding.
 * **Frontend**: React, React Native, TypeScript, Tailwind CSS
 * **Backend**: Node.js, Express.js, FastAPI, Django
 * **Database**: PostgreSQL, MongoDB, Prisma
-* **AI/ML**: Python, Pandas, Scikit-learn
+* **AI/ML**: Python, Pandas, Scikit-learn, NumPy, Matplotlib
 * **Tools**: Git, Docker, Expo, TanStack
 
 ## 🌐 Connect With Me
