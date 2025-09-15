@@ -1,6 +1,6 @@
 # Hi, I'm Abdulsalam! 👋
 
-Software developer passionate about building innovative tech for healthcare and social impact. Currently exploring AI and machine learning to solve real-world problems.
+Software developer passionate about building innovative tech for healthcare and social impact. Currently exploring AI and machine learning.
 
 ## 🚀 Featured Projects
 
