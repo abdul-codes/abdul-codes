@@ -2,15 +2,15 @@
 
 Software developer passionate about building innovative tech for healthcare and social impact. Currently exploring AI and machine learning.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏥 Healthcare Task Management System
+### Healthcare Task Management System
 Mobile app streamlining patient record management for Nigerian hospitals.
 
-### 📊 ML Health Analysis
+### ML Health Analysis
 Machine learning model analyzing hypertension patterns among Nigerian youth.
 
-### 🏗️ Construction Investment Platform
+### Construction Investment Platform
 Platform connecting construction firms with investors for transparent funding.
 
 ## 🛠️ Tech Stack
