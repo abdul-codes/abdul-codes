@@ -14,11 +14,11 @@ Machine learning model analyzing hypertension patterns among Nigerian youth.
 Platform connecting construction firms with investors for transparent funding.
 
 ##  Tech Stack
-* **Frontend**: React, React Native, TypeScript, Tailwind CSS
-* **Backend**: Node.js, Express.js, FastAPI, Django
+* **Language**: JavaScript, TypeScript, Python
+* **Frontend**: React, React Native, Tailwind CSS
+* **Backend**: Node.js, Express.js, FastAPI
 * **Database**: PostgreSQL, MongoDB, Prisma
-* **AI/ML**: Python, Pandas, Scikit-learn, NumPy, Matplotlib
-* **Tools**: Git, Docker, Expo, TanStack
+* **Tools**: Git, Docker, Expo, TanStack, AWS
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdulsalam-akinsanya-07bb9a247/)
