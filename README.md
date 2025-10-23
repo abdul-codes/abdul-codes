@@ -1,24 +1,23 @@
 # Hi, I'm Abdulsalam! 👋
 
-Software developer passionate about building innovative tech for healthcare and social impact. Currently exploring AI and machine learning.
-
+Full-stack developer building APIs and digital solutions. Passionate about fintech innovation and solving real-world problems through technology.
 ##  Featured Projects
 
 ### Healthcare Task Management System
 Mobile app streamlining patient record management for Nigerian hospitals.
 
-### ML Health Analysis
-Machine learning model analyzing hypertension patterns among Nigerian youth.
-
 ### Construction Investment Platform
-Platform connecting construction firms with investors for transparent funding.
+A platform connecting construction firms with investors for transparent funding.
+
+### ML Health Analysis
+Machine learning model analysing hypertension patterns among Nigerian youth.
 
 ##  Tech Stack
 * **Language**: JavaScript, TypeScript, Python
 * **Frontend**: React, React Native, Tailwind CSS
-* **Backend**: Node.js, Express.js, FastAPI
+* **Backend**: Node.js, Express.js,Nestjs FastAPI
 * **Database**: PostgreSQL, MongoDB, Prisma
-* **Tools**: Git, Docker, Expo, TanStack, AWS
+* **Tools**: Git, Docker, Expo, TanStack, AWS, Digital ocean
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdulsalam-akinsanya-07bb9a247/)
